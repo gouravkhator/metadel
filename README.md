@@ -1,6 +1,10 @@
-# NPM Typescript Template for Creating Node Packages
+# Metadel
 
-This is a template for developing, building, testing with Mocha, bundling with Rollup, and publishing to NPM and Github with an automatic workflow.
+Metadel is a metadata remover npm package including cli and api endpoints for users and developers to consume the open-source life of privacy.
+
+**Sorry, I am not free to start the metadel project now. Hoping for a better start in future.**
+
+**Note: I am keeping the pre-made npm typescript template for deploying the goals of private web using metadel.**
 
 ## NPM Package
 
@@ -9,7 +13,7 @@ This is a template for developing, building, testing with Mocha, bundling with R
 Install the package globally:
 
 ```sh
-npm install -g packagename
+npm install -g metadel
 ```
 
 **Note: Run the above command with sudo if you are on mac or linux**
@@ -17,7 +21,7 @@ npm install -g packagename
 Install the package locally:
 
 ```sh
-npm install packagename
+npm install metadel
 ```
 
 ### Run the package in CLI
@@ -25,7 +29,7 @@ npm install packagename
 For global install:
 
 ```sh
-packagename [options]=[values]
+metadel [options]=[values]
 ```
 
 For local install, just run the above commands on terminal with npx prefix.
@@ -33,19 +37,19 @@ For local install, just run the above commands on terminal with npx prefix.
 Ex-
 
 ```sh
-npx packagename [options]=[values]
+npx metadel [options]=[values]
 ```
 
 - Show Help:
 
 ```sh
-packagename -h
+metadel -h
 ```
 
 Or,
 
 ```sh
-packagename --help
+metadel --help
 ```
 
 - Options:

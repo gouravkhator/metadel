@@ -1,5 +1,5 @@
 {
-  "name": "npm-typescript-template",
+  "name": "metadel",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -32,15 +32,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gouravkhator/npm-typescript-template.git"
+    "url": "git+https://github.com/gouravkhator/metadel.git"
   },
   "keywords": [],
   "author": "Gourav Khator",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gouravkhator/npm-typescript-template/issues"
+    "url": "https://github.com/gouravkhator/metadel/issues"
   },
-  "homepage": "https://github.com/gouravkhator/npm-typescript-template#readme",
+  "homepage": "https://github.com/gouravkhator/metadel#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^19.0.0",
     "@rollup/plugin-node-resolve": "^13.0.0",
